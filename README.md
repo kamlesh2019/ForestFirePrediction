@@ -3,8 +3,6 @@ Analysis of 1.88 Million US Wildfires-dataset on kaggle.
 Following questions are analyzed:
 
 Which state is the moste fire prone?
-How does the evolution look like and is there a trend?
-Are there seasonal fluctuations? / Wildfires have to occure much more often in summer, haven't they?
 Can we predict the size / area of a fire?
 
 #Results
